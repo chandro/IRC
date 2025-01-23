@@ -35,12 +35,6 @@ cp superscript.tcl bot3/scripts/superscript.tcl
 cp superscript.tcl bot4/scripts/superscript.tcl
 cp superscript.tcl bot5/scripts/superscript.tcl
 cp superscript.tcl bot6/scripts/superscript.tcl
-mv bot1 lowguess
-mv bot2 lowtictac
-mv bot3 lowroulete
-mv bot4 lowduck
-mv bot5 lowuno
-mv bot6 lowtexas
 echo ""
-echo "Instalados 6 Eggdrops Games"
+echo "Instalados 6 Eggdrops"
 echo ""
